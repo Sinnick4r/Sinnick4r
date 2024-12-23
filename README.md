@@ -1,5 +1,5 @@
 ## 🔍 Sobre mí
--     📚 Actualmente estudiando: Ciencia de Datos e Inteligencia Artificial en (ISTEA Buenos Aires, Argentina)
+    📚 Actualmente estudiando: Ciencia de Datos e Inteligencia Artificial en (ISTEA Buenos Aires, Argentina)
     💡 Intereses:
         Exploración y visualización de datos.
         Modelos de aprendizaje automático.
@@ -28,8 +28,8 @@ Análisis de los datos de desastres naturales reportados por NOAA en 2024, inclu
 
 ## 🌐 Contacto
 
-- [LinkedIn](https://www.linkedin.com/in/emilio-g-lencina/)
-- [Correo Electrónico](mailto:emilioge@protonmail.com)
+💼 [LinkedIn](https://www.linkedin.com/in/emilio-g-lencina/)
+📥 [Correo Electrónico](mailto:emilioge@protonmail.com)
 
 ## 🎯 Objetivo
 
