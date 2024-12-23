@@ -9,7 +9,7 @@
         Visualización: Power BI, Matplotlib, Seaborn, Plotly.
         Bases de datos: MySQL, SQL Server.
         Entornos: Jupyter Notebook, VS Code.
-        PAra los Emijis de este Readme < a href:"https://gist.github.com/roachhd/1f029bd4b50b8a524f3c"> Emojis </a>
+        PAra los Emijis de este Readme <a href="https://gist.github.com/roachhd/1f029bd4b50b8a524f3c"> Emojis </a>
 
 🚀 Proyectos:
 
@@ -28,8 +28,7 @@ Análisis de los datos de desastres naturales reportados por NOAA en 2024, inclu
 
 🌐 Contacto
 
-    💼 <a href="https://www.linkedin.com/in/emilio-g-lencina/"> Linkedin </a>
-    🌎 Portfolio (opcional si ya lo tienes)
+    💼 <a href="https://www.linkedin.com/in/emilio-g-lencina"> Linkedin </a> 
 
 🎯 Objetivo
 
