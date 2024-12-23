@@ -28,7 +28,7 @@ Análisis de los datos de desastres naturales reportados por NOAA en 2024, inclu
 
 🌐 Contacto
 
-    💼 <a href="https://www.linkedin.com/in/emilio-g-lencina"> Linkedin </a> 
+    💼 [LinkedIn](https://www.linkedin.com/in/emilio-g-lencina/)> 
 
 🎯 Objetivo
 
