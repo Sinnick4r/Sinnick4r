@@ -9,7 +9,7 @@
         Visualización: Power BI, Matplotlib, Seaborn, Plotly.
         Bases de datos: MySQL, SQL Server.
         Entornos: Jupyter Notebook, VS Code.
-        PAra los Emijis de este Readme <a href="https://gist.github.com/roachhd/1f029bd4b50b8a524f3c"> Emojis </a>
+        Para los Emijis de este Readme <a href="https://gist.github.com/roachhd/1f029bd4b50b8a524f3c"> Emojis </a>
 
 ## 🚀 Proyectos:
 
