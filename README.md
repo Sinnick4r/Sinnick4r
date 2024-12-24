@@ -1,5 +1,5 @@
 ## 🔍 Sobre mí
-    📚 Actualmente estudiando: Ciencia de Datos e Inteligencia Artificial en (ISTEA Buenos Aires, Argentina)
+    📚 Actualmente estudiando: Ciencia de Datos e Inteligencia Artificial
     💡 Intereses:
         Exploración y visualización de datos.
         Modelos de aprendizaje automático.
@@ -21,7 +21,7 @@ Análisis de los datos de desastres naturales reportados por NOAA en 2024, inclu
 
 Análisis estadístico de causas ingresadas en un juzgado entre 2020 y 2024 utilizando Excel y PowerBI
 
-## 🌟 Que estudio en ISTEA: 
+## 🌟 Que estudio: 
 
     💻 Machine Learning: Experimentando con algoritmos básicos y avanzados.
     🛠️ Optimización de Dashboards: Power BI y bibliotecas interactivas de Python.
