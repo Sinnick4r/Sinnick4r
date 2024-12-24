@@ -14,7 +14,7 @@
 ## 🚀 Proyectos:
 
 🌍<a href="https://github.com/Sinnick4r/Exploracion_NOAA_2024"> Análisis de Datos NOAA 2024</a>
-🌍<a href="https://github.com/Sinnick4r/Analisis-ingreso-causas-2024"> Análisis de Datos NOAA 2024</a>
+🌍<a href="https://github.com/Sinnick4r/Analisis-ingreso-causas-2024"> Análisis estadístico de causas de Juzgado 2020-2024</a>
 
 
 Análisis de los datos de desastres naturales reportados por NOAA en 2024, incluyendo visualizaciones interactivas y hallazgos clave.
