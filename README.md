@@ -7,8 +7,8 @@
     🛠️ Herramientas que uso:
         Lenguajes: Python, SQL.
         Visualización: Power BI, Matplotlib, Seaborn, Plotly.
-        Bases de datos: MySQL, SQL Server.
-        Entornos: Jupyter Notebook, VS Code.
+        Bases de datos: MySQL, SQL Server, MS Excel.
+        Entornos: Jupyter Notebook, VS Code, Sublime.
 
 
 ## 🚀 Proyectos:
