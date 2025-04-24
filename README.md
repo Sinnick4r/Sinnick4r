@@ -9,7 +9,10 @@
         Visualización: Power BI, Matplotlib, Seaborn, Plotly.
         Bases de datos: MySQL, SQL Server, MS Excel.
         Entornos: Jupyter Notebook, VS Code, Sublime.
+## 🌐 Contacto
 
+💼 [LinkedIn](https://www.linkedin.com/in/emilio-g-lencina/)
+📥 [Correo Electrónico](mailto:emilioge@protonmail.com)
 
 ## 🚀 Proyectos:
 
@@ -29,11 +32,6 @@ Análisis estadístico de causas ingresadas en un juzgado entre 2020 y 2024 util
     📈 Estadística
     📄 Bases de Datos: MySQL, SQL Server
 
-## 🌐 Contacto
-
-💼 [LinkedIn](https://www.linkedin.com/in/emilio-g-lencina/)
-📥 [Correo Electrónico](mailto:emilioge@protonmail.com)
-
 ## 🎯 Objetivo
 
-Quiero desarrollar mis habilidades y contribuir a proyectos donde pueda aplicar la ciencia de datos e inteligencia artificial para optimizar sistemas existentes y crear nuevos modelos
+Quiero desarrollar mis habilidades y colaborar en proyectos de data science y seguridad para construir sistemas más robustos e inteligentes.
