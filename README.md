@@ -1,4 +1,4 @@
-## 🔍 Sobre mí
+## Sobre mí
     -- Actualmente estudiando: Ciencia de Datos e Inteligencia Artificial
     -- Intereses:
         Exploración y visualización de datos.
