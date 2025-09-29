@@ -24,9 +24,9 @@ Análisis de los datos de desastres naturales reportados por NOAA en 2024, inclu
 
 Análisis estadístico de causas ingresadas en un juzgado entre 2020 y 2024 utilizando Excel y PowerBI
 
-🌍<a href="https://github.com/Sinnick4r/literate-chainsaw"> Literate chainsaw</a>
+🌍<a href="https://github.com/Sinnick4r/Scraper_unoosa">Scraper UNOOSA</a>
 
-Python CLI para auditorías de seguridad automáticas • Bandit, regex y unified-diff 
+Herramienta que arme para scrapear la pagina oficial de UNNOSA
 
 ## 🌟 Que estudio: 
 
