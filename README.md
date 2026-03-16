@@ -1,14 +1,7 @@
 ## Sobre mí
-    -- Actualmente estudiando: Ciencia de Datos e Inteligencia Artificial
-    -- Intereses:
-        Exploración y visualización de datos.
-        Modelos de aprendizaje automático.
-        Inteligencia artificial aplicada.
-    -- Herramientas que uso:
-        Lenguajes: Python, SQL.
-        Visualización: Power BI, Matplotlib, Seaborn, Plotly.
-        Bases de datos: MySQL, SQL Server, MS Excel.
-        Entornos: Jupyter Notebook, VS Code, Sublime.
+
+Analista de datos con mas de una decada de experiencia en el rubro judicial, enfocado en analisis legales, reporte operacional, data quality y creacion de dasgborasds integrales 
+
 ## Contacto
 
  [LinkedIn](https://www.linkedin.com/in/emilio-g-lencina/)
@@ -27,15 +20,3 @@ Análisis estadístico de causas ingresadas en un juzgado entre 2020 y 2024 util
 --<a href="https://github.com/Sinnick4r/Scraper_unoosa">Scraper UNOOSA</a>
 
 Herramienta que arme para scrapear la pagina oficial de UNNOSA
-
-## Que estudio: 
-
-    Machine Learning: Experimentando con algoritmos básicos y avanzados.
-    Optimización de Dashboards: Power BI y Python.
-    Analisis y Procesamiento de datos: Limpieza, transformación y análisis con PowerQuery de PowerBI, Pandas y NumPy.
-    Estadística
-    Bases de Datos: MySQL, SQL Server, MongoDB
-
-## Objetivo
-
-Quiero desarrollar mis habilidades y colaborar en proyectos de data science y seguridad para construir sistemas más robustos e inteligentes. Ponele.
