@@ -13,7 +13,7 @@ Analista de datos con mas de una decada de experiencia en el rubro judicial, enf
 
 Análisis de los datos de desastres naturales reportados por NOAA en 2024, incluyendo visualizaciones interactivas y hallazgos clave.
 
--- [Análisis estadístico de causas de Juzgado 2020-2026]((https://github.com/Sinnick4r/analitica-judicial-penal-juvenil)
+-- [Análisis estadístico de causas de Juzgado 2020-2026](https://github.com/Sinnick4r/analitica-judicial-penal-juvenil)
 
 Análisis estadístico de causas ingresadas en un juzgado entre 2020 y 2026 utilizando Excel manual como dataset crudo, Python para limpieza preparacion y analsiis preliminart y PowerBI para dashboards
 
