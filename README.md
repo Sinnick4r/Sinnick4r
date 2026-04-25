@@ -19,4 +19,4 @@ Análisis estadístico de causas ingresadas en un juzgado entre 2020 y 2026 util
 
 --<a href="https://github.com/Sinnick4r/Scraper_unoosa">Scraper UNOOSA</a>
 
-Herramienta que arme para scrapear la pagina oficial de UNNOSA
+Herramienta que arme para scrapear la pagina oficial de UNOOSA
