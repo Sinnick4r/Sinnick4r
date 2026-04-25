@@ -9,9 +9,9 @@ Analista de datos con mas de una decada de experiencia en el rubro judicial, enf
 
 ## Proyectos:
 
---<a href="https://github.com/Sinnick4r/Exploracion_NOAA_2024"> Análisis de Datos NOAA 2024</a>
+--<a href="https://github.com/Sinnick4r/analisis-eventos-NOAA"> Análisis de datasets del NOAA - National Oceanic and Atmospheric Administration</a>
 
-Análisis de los datos de desastres naturales reportados por NOAA en 2024, incluyendo visualizaciones interactivas y hallazgos clave.
+Análisis de los datos de desastres naturales reportados por NOAA,automatizado y reproducible.
 
 -- [Análisis estadístico de causas de Juzgado 2020-2026](https://github.com/Sinnick4r/analitica-judicial-penal-juvenil)
 
